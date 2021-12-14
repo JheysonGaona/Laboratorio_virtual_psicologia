@@ -1,5 +1,6 @@
 # Implementación en Unity de un laboratorio virtual de psicología para llevar a cabo una práctica experimental
-El laboratorio virtual (LV) fue creado con la herramienta de [Unity 2019.3.15f1](https://unity3d.com/es/get-unity/download/archive)
+El laboratorio virtual (LV) fue creado con la herramienta de [Unity 2019.3.15f1](https://unity3d.com/es/get-unity/download/archive) \
+La práctica experimental se basa en el condicionamiento clásico de Iván Pávlov y su experimento sobre el "Reflejo de salivación"
 
 ## Guía y acceso al LV
 Para poder acceder al LV es necesario ingresar al siguiente link: [https://virtual-lab-33fd6.web.app/](https://virtual-lab-33fd6.web.app/) \
